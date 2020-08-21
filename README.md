@@ -6,6 +6,7 @@
 
 :mag_right: I’m currently learning React, React Native and NodeJS.
 
+[![Codepen Badge](https://img.shields.io/badge/-CodePen-24292E?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/lucasbecker)](https://codepen.io/lucasbecker)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-24292E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbeckerfelisberto)](https://www.linkedin.com/in/lucasbeckerfelisberto)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-24292E?style=flat-square&labelColor=24292E&logo=twitter&logoColor=white&link=https://twitter.com/lucasbckr)](https://twitter.com/lucasbckr)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-24292E?style=flat-square&labelColor=24292E&logo=instagram&logoColor=white&link=https://www.instagram.com/lucas.bckr/)](https://www.instagram.com/lucas.bckr/)
