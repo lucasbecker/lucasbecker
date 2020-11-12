@@ -1,0 +1,34 @@
+{
+  "name": "lucasbecker",
+  "version": "1.0.0",
+  "description": "My business card.",
+  "main": "./bin/card.js",
+  "bin": {
+    "lucasbecker": "./bin/card.js"
+  },
+  "scripts": {
+    "start": "node ./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasbecker/lucasbecker.git"
+  },
+  "keywords": [
+    "business-card",
+    "card",
+    "resume",
+    "cli"
+  ],
+  "author": "Lucas Becker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasbecker/lucasbecker/issues"
+  },
+  "homepage": "https://github.com/lucasbecker/lucasbecker#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "commander": "^6.2.0"
+  }
+}
