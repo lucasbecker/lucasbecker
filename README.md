@@ -6,7 +6,7 @@
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │   Lucas Becker                                              │
-│   Desenvolvedor Full Stack - Freelancer                     │
+│   Front-end Web Developer                                   │
 │                                                             │
 │   Web:      https://lucasbecker.github.io                   │
 │   GitHub:   https://github.com/lucasbecker                  │

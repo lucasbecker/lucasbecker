@@ -11,8 +11,7 @@ const boxenConfig = {
 
 const data = {
   name: chalk.white.bold('Lucas Becker'),
-  occupation: chalk.white('Desenvolvedor Full Stack'),
-  organization: chalk.white('Freelancer'),
+  occupation: chalk.white('Front-end Web Developer'),
   web: chalk.blueBright('https://lucasbecker.github.io'),
   github: chalk.blueBright('https://github.com/lucasbecker'),
   linkedin: chalk.blueBright('https://linkedin.com/in/lucasbeckerfelisberto'),
@@ -25,7 +24,7 @@ const data = {
 
 const newline = '\n';
 const name = `   ${data.name}   `;
-const work = `   ${data.occupation} - ${data.organization}   `;
+const work = `   ${data.occupation}   `;
 const web = `   ${data.labelWeb}      ${data.web}   `;
 const github = `   ${data.labelGithub}   ${data.github}   `;
 const linkedin = `   ${data.labelLinkedin} ${data.linkedin}   `;
